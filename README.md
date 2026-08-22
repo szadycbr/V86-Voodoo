@@ -3,9 +3,10 @@ This is my Best of V86, its been long yourney.
 I replaced bochs adapter with S3Trio64 from dosobox and added 3DFX from mame, ohh boy, was that thing incomplette, now mostly working.
 You dont need http servers or other BS, just load page and run, its much faster in chrome than in firefox, on my ageing 11th gen i5 laptop nfs3 is flying,
 many games you can play, FM/OPL sound and MIDI works, still not perfect, timing is an issue.
-Resident Evil 3 works surprisingly well, event hevy begin sequence is "acceptable" 
+Resident Evil 3 works surprisingly well, even hevy begin sequence is "acceptable" 
 I decoupled most of the thing from time per frame, primarly IDE so i got some speed boost.
-
+So, i release there is Tauri desktop version, much slower but with Direct R/W for HD so you can prepare images.
+And Android APK is for Fun, its also surprisigly fast, i think i can make it even faster, just change gecko view for V8 from chrome.
 <img width="1920" height="890" alt="nfs3-640x480-voodoo" src="https://github.com/user-attachments/assets/6fb833b3-04cc-4ba1-8d94-300856411193" />
 
 <img width="1920" height="890" alt="Q2-640x480-voodoo" src="https://github.com/user-attachments/assets/621dcaf0-cb67-48c1-b595-595ea1c25490" />
@@ -18,7 +19,7 @@ I decoupled most of the thing from time per frame, primarly IDE so i got some sp
 
 <img width="1920" height="890" alt="Kingpin" src="https://github.com/user-attachments/assets/517a0199-36d6-40f5-bb7b-e167393ae1eb" />
 
-<img width="1080" height="2340" alt="Q2-Android" src="https://github.com/user-attachments/assets/8fadeb79-5fee-429a-b3e7-d978df223e98" />
+<img width="600" height="800" alt="Q2-Android" src="https://github.com/user-attachments/assets/8fadeb79-5fee-429a-b3e7-d978df223e98" />
 
 
 
