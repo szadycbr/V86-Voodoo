@@ -19,7 +19,7 @@ And Android APK is for Fun, its also surprisigly fast, i think i can make it eve
 
 <img width="1920" height="890" alt="Kingpin" src="https://github.com/user-attachments/assets/517a0199-36d6-40f5-bb7b-e167393ae1eb" />
 
-<img width="600" height="1200" alt="Q2-Android" src="https://github.com/user-attachments/assets/8fadeb79-5fee-429a-b3e7-d978df223e98" />
+<img width="400" height="700" alt="Q2-Android" src="https://github.com/user-attachments/assets/8fadeb79-5fee-429a-b3e7-d978df223e98" />
 
 
 
