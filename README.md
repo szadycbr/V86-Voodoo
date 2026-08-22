@@ -5,7 +5,7 @@ You dont need http servers or other BS, just load page and run, its much faster 
 many games you can play, FM/OPL sound and MIDI works, still not perfect, timing is an issue, PCI bus had to be revamped And SeaBios also, so dont use other bios.
 Resident Evil 3 works surprisingly well, even hevy begin sequence is "acceptable" 
 I decoupled most of the thing from time per frame, primarly IDE so i got some speed boost.
-And Android APK is for Fun, its also surprisigly fast, i think i can make it even faster, just change gecko view for V8 from chrome.
+
 <img width="1920" height="890" alt="nfs3-640x480-voodoo" src="https://github.com/user-attachments/assets/6fb833b3-04cc-4ba1-8d94-300856411193" />
 
 <img width="1920" height="890" alt="Q2-640x480-voodoo" src="https://github.com/user-attachments/assets/621dcaf0-cb67-48c1-b595-595ea1c25490" />
