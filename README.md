@@ -14,3 +14,12 @@ I decoupled most of the thing from time per frame, primarly IDE so i got some sp
 
 <img width="1920" height="890" alt="RE3-low" src="https://github.com/user-attachments/assets/108fc77e-df2f-421a-8815-04acc757b530" />
 
+<img width="1920" height="890" alt="Airfix" src="https://github.com/user-attachments/assets/7927f719-da33-4501-9fe1-159bb69c04eb" />
+
+<img width="1920" height="890" alt="Kingpin" src="https://github.com/user-attachments/assets/517a0199-36d6-40f5-bb7b-e167393ae1eb" />
+
+<img width="1080" height="2340" alt="Q2-Android" src="https://github.com/user-attachments/assets/8fadeb79-5fee-429a-b3e7-d978df223e98" />
+
+
+
+
