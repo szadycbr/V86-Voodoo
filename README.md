@@ -2,8 +2,10 @@
 This is my Best of V86, its been long yourney.
 I replaced Bochs adapter with S3Trio64 from Dosobox and added 3DFX from mame, ohh boy, was that thing incomplette, now mostly working.
 
-It dont need http server, but to get it going in stupid chrome browser you must go into bios, set all ide channells to AUTO , then load setup defaults , save and exit
-Then go to bios again , use HDD autodetection and you should have hd, sace and exit.
+It dont need http server, but to get it going in browser you must go into bios, set all ide channells to AUTO , then load setup defaults , save and exit.
+Then go to bios again , use HDD autodetection and you should have hd, save and exit.
+
+Firefox has litlle faster .wasm emulation for cpu, but Chrome has much faster Webgl/Voodoo in its V8 engine.
 
 many games you can play, FM/OPL sound and MIDI works, still not perfect, timing is an issue, PCI bus had to be revamped And SeaBios also, so dont use other bios.
 Resident Evil 3 works surprisingly well, even hevy begin sequence is "acceptable" 
