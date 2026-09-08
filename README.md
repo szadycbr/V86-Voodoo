@@ -1,4 +1,4 @@
-# V86-Voodoo V86,
+# V86-Voodoo
 
 <img width="1920" height="890" alt="nfs3-640x480-voodoo" src="https://github.com/user-attachments/assets/6fb833b3-04cc-4ba1-8d94-300856411193" />
 
