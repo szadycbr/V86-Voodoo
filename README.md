@@ -15,7 +15,6 @@ Award version is up to 4Gb.
 
 Added experimental build with Award bios! Win98 installs without much of a problem. Bios settings are saved in html. Hot swap CD in windows dont work yet. You also must set hdd to auto in bios, cdrom is on secondary master. You can safely restart and shutdawn system , then safely save hd image. most of dos games work also,
 Like Wolf3d, CatacombAbyss, etc. but remember for games that need more ems you must be creative in config.sys or autoexec.bat. it has 2Mb Lo-Tech EMS board , but i have not tested it, so it might not work and you need LTEMM.EXE driver (DEVICE=LTEMM.EXE /p:d000 /i:260). i need to fix Gods game flickering issue, but i was extremally happy when finally its tricky intro music played correctly :) "into...The Wonderfull" ;) yeahh!
-Let me know in Discussions if anyone want src, then i will upload it.
 https://www.youtube.com/watch?v=c37OYx9WIAc
 
 And now quite nice Android app with fully working touch mouse! :)
